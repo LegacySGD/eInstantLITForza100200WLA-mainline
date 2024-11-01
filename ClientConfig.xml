@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Forza 100 200 WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Forza100200" enableFreeSpin="Y" clientversion="1.0" gameId="300-2396-0" />
+	<GameClient name="Forza 100 200 WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Forza100200" enableFreeSpin="Y" clientversion="1.0" gameId="300-2396-0" />
+	<GameClient name="Forza 100 200 WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Forza100200" enableFreeSpin="Y" clientversion="1.0" gameId="300-2396-0" />
+</ClientConfig>
